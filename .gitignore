@@ -3,5 +3,6 @@ credentials.json
 .venv/
 __pycache__/
 dist/
+.env
 build/
 *.egg-info/
