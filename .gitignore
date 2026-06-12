@@ -1,8 +1,11 @@
-token.json
-credentials.json
 .venv/
 __pycache__/
-dist/
+*.pyc
 .env
+
+token.json
+credentials.json
+
+dist/
 build/
 *.egg-info/
